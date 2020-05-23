@@ -15,7 +15,7 @@ $ yarn add name2mime
 ```
 
 # Data Source
-Thanks to the amazing guys @ [freeCodeCamp](https://www.freeformatter.com/mime-types-list.html) for compiling [this](https://www.freeformatter.com/mime-types-list.html) list of 600+ MIME types.
+Thanks to the amazing guys @ [FreeFormatter](https://www.freeformatter.com/mime-types-list.html) for compiling [this](https://www.freeformatter.com/mime-types-list.html) list of 600+ MIME types.
 
 # Sample
 
@@ -44,4 +44,4 @@ console.log(value);
 
 # License
 
-MIT © [Hashir Baig](www.meethashir.com)
+MIT © [Hashir Baig](http://www.meethashir.com)
